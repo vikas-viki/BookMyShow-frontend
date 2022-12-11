@@ -45,7 +45,7 @@
 .time_seats_container{
   position: relative;
   overflow: auto;
-  top: -40px;
+  top: -10px;
 }
 .SS_wrapper{
   margin-top: 50px;
